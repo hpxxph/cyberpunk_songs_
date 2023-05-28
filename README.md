@@ -5,6 +5,10 @@
 playlist will be updated periodically [includes many bugs];
 
 <h1>how to use :
+  <br>
 - if you click on NEXT | PREV will not display the text "fix over time"
+    <br>
 - you can’t switch through the buttons either, only through the player on the site
+    <br>
 - to turn on the next track, you need to stop the previous one</h1>
+  <br>
